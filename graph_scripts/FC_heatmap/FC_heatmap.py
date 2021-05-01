@@ -17,7 +17,7 @@ uniform_data = np.random.rand(10, 12)
 
 file_path = sys.argv[1]
 
-# file_path = "/Users/ernesto/Desktop/colabo/Chantal/tRNA_is_life/graph_scripts/FC_heatmap/heatmap_HB-GBM.txt"
+# file_path = "/Users/ernesto/PycharmProjects/tRNA_is_life/graph_scripts/FC_heatmap/heatmap_HB-GBM.txt"
 title = "hehe"
 file_base = ".".join(file_path.split(".")[:-1])
 file_name = file_base.split("/")[-1]
@@ -114,6 +114,7 @@ plt.savefig(file_base + "_all.png")
 logFC_df["FC"] = logFC_df.mean(axis=1, numeric_only=True, skipna=True).abs()
 to_plotFC = logFC_df.nlargest(20, columns=['FC'])
 to_plot = to_plotFC.T
+to_plot = to_plot.drop("FC",axis=0)
 x,y = to_plot.shape
 default_x = x/float(4)
 default_y = y/float(4)
