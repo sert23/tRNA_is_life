@@ -5,8 +5,13 @@ from math import pi
 import math
 import numpy as np
 import os
+import sys
 
-file_path = "/Users/ernesto/PycharmProjects/tRNA_is_life/graph_scripts/lollipop/lollipop_example.txt"
+args = sys.argv
+
+file_path = sys.argv[1]
+
+# file_path = "/Users/ernesto/PycharmProjects/tRNA_is_life/graph_scripts/lollipop/lollipop_example.txt"
 
 file_folder = "/".join(file_path.split("/")[:-1])
 
