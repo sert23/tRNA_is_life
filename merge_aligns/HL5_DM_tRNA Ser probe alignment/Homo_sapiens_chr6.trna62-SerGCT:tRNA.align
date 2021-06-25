@@ -1,0 +1,920 @@
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA  33,583(1,036.8/3,490.3) adj:5,968.6
+(((((((((((((.(((((..((((((((((.......)))))))).))..)).))).))).........))).)))))))....
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	5,140(158.7/534.2)  adj:734.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	2,004(61.9/208.3)  adj:286.3	+	.
+                                                         GTGGGTTCGAATCCCATCCTCGTCGCCA	1,914(59.1/198.9)  adj:319	+	.
+                                                               TCGAATCCCATCCTCGTCGCCA	1,677(51.8/174.3)  adj:279.5	+	.
+                                                                    TCCCATCCTCGTCGCCA	1,666(51.4/173.1)  adj:277.7	+	.
+                                                          TGGGTTCGAATCCCATCCTCGTCGCCA	1,554(48/161.5)  adj:259	+	.
+                                                           GGGTTCGAATCCCATCCTCGTCGCCA	1,405(43.4/146)  adj:234.2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGAC                                                     	1,320(40.8/137.2)  adj:188.6	+	.
+                                                                   ATCCCATCCTCGTCGCCA	1,192(36.8/123.9)  adj:198.7	+	.
+                                                            GGTTCGAATCCCATCCTCGTCGCCA	1,054(32.5/109.5)  adj:175.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCT                                                 	1,050(32.4/109.1)  adj:150	+	.
+                                                        CGTGGGTTCGAATCCCATCCTCGTCGCCA	1,050(32.4/109.1)  adj:175	+	.
+                                                             GTTCGAATCCCATCCTCGTCGCCA	855(26.4/88.9)  adj:142.5	+	.
+                                                                CGAATCCCATCCTCGTCGCCA	795(24.5/82.6)  adj:132.5	+	.
+                                                                  AATCCCATCCTCGTCGCCA	615(19/63.9)  adj:102.5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGC                                                  	507(15.7/52.7)  adj:72.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACT                                                    	504(15.6/52.4)  adj:72	+	.
+                                                                     CCCATCCTCGTCGCCA	457(14.1/47.5)  adj:76.2	+	.
+                                                              TTCGAATCCCATCCTCGTCGCCA	364(11.2/37.8)  adj:60.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGA                                                      	357(11/37.1)  adj:51	+	.
+                                                                 GAATCCCATCCTCGTCGCCA	355(11/36.9)  adj:59.2	+	.
+                                                                      CCATCCTCGTCGCCA	280(8.6/29.1)  adj:46.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTG                                                   	213(6.6/22.1)  adj:30.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATG                                                        	202(6.2/21)  adj:28.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	201(6.2/20.9)  adj:201	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGG                                                       	182(5.6/18.9)  adj:26	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTG                                      	166(5.1/17.3)  adj:23.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCT                                    	160(4.9/16.6)  adj:22.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCT                                                 	159(4.9/16.5)  adj:22.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	156(4.8/16.2)  adj:156	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGAC                                                     	120(3.7/12.5)  adj:17.1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGATT                                                    	114(3.5/11.8)  adj:16.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATG                                                        	108(3.3/11.2)  adj:15.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCT                                  	99(3.1/10.3)  adj:16.5	+	.
+GACGAGGTGGCCGAGTGGTT                                                                 	98(3/10.2)  adj:14	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGC                                                  	83(2.6/8.6)  adj:11.9	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	80(2.5/8.3)  adj:11.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGATTG                                                   	79(2.4/8.2)  adj:11.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTC                                   	75(2.3/7.8)  adj:12.5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGATTGC                                                  	74(2.3/7.7)  adj:10.6	+	.
+                               CTGCTAATCCATTGTGCT                                    	72(2.2/7.5)  adj:9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGA                                                      	70(2.2/7.3)  adj:10	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACT                                                    	70(2.2/7.3)  adj:10	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTG                                        	59(1.8/6.1)  adj:8.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGC                                     	54(1.7/5.6)  adj:7.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCC                                            	47(1.5/4.9)  adj:6.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGT                      	47(1.5/4.9)  adj:47	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGAATGC                                                  	46(1.4/4.8)  adj:6.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGAAT                                                    	44(1.4/4.6)  adj:6.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGATT                                                    	42(1.3/4.4)  adj:6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGAATG                                                   	42(1.3/4.4)  adj:6	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	42(1.3/4.4)  adj:6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCAC                              	40(1.2/4.2)  adj:6.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGG                                                       	40(1.2/4.2)  adj:5.7	+	.
+            GAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCT                                    	40(1.2/4.2)  adj:5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGAT                                                         	37(1.1/3.8)  adj:5.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCG      	35(1.1/3.6)  adj:35	+	.
+GACGAGGTGGCCGAGT                                                                     	35(1.1/3.6)  adj:5	+	.
+                                TGCTAATCCATTGTGCT                                    	35(1.1/3.6)  adj:4.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGT                                                  	34(1/3.5)  adj:4.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCCATGGACT                                                    	34(1/3.5)  adj:4.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGATTGCT                                                 	34(1/3.5)  adj:4.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCA                               	33(1/3.4)  adj:5.5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGA                                                      	33(1/3.4)  adj:4.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAAT                                                         	31(1/3.2)  adj:4.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGG                                                             	31(1/3.2)  adj:4.4	+	.
+   GAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	31(1/3.2)  adj:4.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTA                                                	29(0.9/3)  adj:4.1	+	.
+             AGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCT                                    	28(0.9/2.9)  adj:3.5	+	.
+GACGAGGTGGCCGAGTGGTTAAG                                                              	27(0.8/2.8)  adj:3.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACTG                                                   	26(0.8/2.7)  adj:3.7	+	.
+TACGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	26(0.8/2.7)  adj:3.7	+	.
+GACGAGGTGGCCGAG                                                                      	26(0.8/2.7)  adj:3.7	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	26(0.8/2.7)  adj:3.7	+	.
+                               CTGCTAATCCATTGTGCTCTGCAC                              	26(0.8/2.7)  adj:3.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGT     	24(0.7/2.5)  adj:24	+	.
+GACGAGGTGGCCGAGTGGTTAAGTCGATGGACT                                                    	24(0.7/2.5)  adj:3.4	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCGATGGAC                                                     	24(0.7/2.5)  adj:3.4	+	.
+                                                         TTGGGTTCGAATCCCATCCTCGTCGCCA	24(0.7/2.5)  adj:4	+	.
+                                                                   ATCCCATCCTCGTCGCC 	24(0.7/2.5)  adj:4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCC                                            	23(0.7/2.4)  adj:3.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACTGCT                                                 	23(0.7/2.4)  adj:3.3	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCT                                                 	23(0.7/2.4)  adj:3.3	+	.
+   GAGGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	23(0.7/2.4)  adj:3.3	+	.
+                                TGCTAATCCATTGTGCTCTGCA                               	23(0.7/2.4)  adj:3.3	+	.
+                                                                CTAATCCCATCCTCGTCGCCA	23(0.7/2.4)  adj:3.8	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTT                                                   	22(0.7/2.3)  adj:3.1	+	.
+                                                         GTGGGTTCGAATCCCATCCTCGTCGCC 	22(0.7/2.3)  adj:3.7	+	.
+                                                                CGAATCCCATCCTCGTCGCC 	21(0.6/2.2)  adj:3.5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGC                                                            	20(0.6/2.1)  adj:2.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATC                                             	20(0.6/2.1)  adj:2.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGAATGCT                                                 	20(0.6/2.1)  adj:2.9	+	.
+GACGAGGTGGCCGAGTGG                                                                   	19(0.6/2)  adj:2.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACTCGTGGGTTCGAATCCCATCCTCGTCGCCA	19(0.6/2)  adj:4.8	+	.
+              GTGGTTAAGGCGATGGA                                                      	19(0.6/2)  adj:1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATC                                             	18(0.6/1.9)  adj:2.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGC                                	18(0.6/1.9)  adj:3	+	.
+GACGAGGTGACCGAGTGGTTAAGGCGATGGACT                                                    	18(0.6/1.9)  adj:2.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGT     	18(0.6/1.9)  adj:18	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGA                                                          	18(0.6/1.9)  adj:2.6	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCAATGGACT                                                    	18(0.6/1.9)  adj:2.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCG      	17(0.5/1.8)  adj:17	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCAC                              	17(0.5/1.8)  adj:2.8	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGAC                                                     	17(0.5/1.8)  adj:2.4	+	.
+GACGAGGTGGCCGAGTGGT                                                                  	17(0.5/1.8)  adj:2.4	+	.
+                                                           GGGTTCGAATCCCATCCTCGTCGCC 	17(0.5/1.8)  adj:2.8	+	.
+GACGATGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	16(0.5/1.7)  adj:2.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGATTGCTAATCCATTGTG                                      	16(0.5/1.7)  adj:2.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCT                                    	16(0.5/1.7)  adj:2.3	+	.
+                                        CATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	16(0.5/1.7)  adj:16	+	.
+                                                            GGTTCGAATCCCATCCTCGTCGCC 	16(0.5/1.7)  adj:2.7	+	.
+                                                                    TCCCATCCTCGTCGCC 	16(0.5/1.7)  adj:2.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGTACT                                                    	15(0.5/1.6)  adj:2.1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATTGACT                                                    	15(0.5/1.6)  adj:2.1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGA                                                      	15(0.5/1.6)  adj:2.1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTG                                 	14(0.4/1.5)  adj:2.3	+	.
+GACTAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	14(0.4/1.5)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGAGT                                                    	14(0.4/1.5)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCT                                    	14(0.4/1.5)  adj:2	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCT                                                 	14(0.4/1.5)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTA                                                   	13(0.4/1.4)  adj:1.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTG                                        	13(0.4/1.4)  adj:1.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCT                                  	13(0.4/1.4)  adj:2.2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	13(0.4/1.4)  adj:1.9	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	13(0.4/1.4)  adj:1.9	+	.
+                               CTGCTAATCCATTGTGCTCTGCA                               	13(0.4/1.4)  adj:1.9	+	.
+                                     ATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	13(0.4/1.4)  adj:13	+	.
+                                                          TGGGTTCGAATCCCATCCTCGTCGCC 	13(0.4/1.4)  adj:2.2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGAT                                                     	12(0.4/1.2)  adj:1.7	+	.
+GACGAAGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	12(0.4/1.2)  adj:1.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATC          	12(0.4/1.2)  adj:12	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGC                                                  	12(0.4/1.2)  adj:1.7	+	.
+                            GGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	12(0.4/1.2)  adj:12	+	.
+                                    AATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	12(0.4/1.2)  adj:12	+	.
+                                                             GTTCGAATCCCATCCTCG      	12(0.4/1.2)  adj:2	+	.
+                                                               TCGGATCCCATCCTCGTCGCCA	12(0.4/1.2)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGTT                                                 	11(0.3/1.1)  adj:1.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGATTG                                                   	11(0.3/1.1)  adj:1.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCCATGGACTG                                                   	11(0.3/1.1)  adj:1.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGC                                     	11(0.3/1.1)  adj:1.6	+	.
+       TGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	11(0.3/1.1)  adj:11	+	.
+                                                            GGTTCGAATCCCATCCTCG      	11(0.3/1.1)  adj:1.8	+	.
+                                                             GTTCGAATCCCATCCTCGTCGCC 	11(0.3/1.1)  adj:1.8	+	.
+                                                               TCGAATCCCATCCTCGTCGCC 	11(0.3/1.1)  adj:1.8	+	.
+                                                                     TCCATCCTCGTCGCCA	11(0.3/1.1)  adj:1.8	+	.
+TACGAGGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	10(0.3/1)  adj:1.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	10(0.3/1)  adj:1.4	+	.
+                               CTGCTAATCCATTGTGC                                     	10(0.3/1)  adj:1.2	+	.
+                                                           GGGTTCGAATCCCATCCTCGT     	10(0.3/1)  adj:1.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCAT                                          	9(0.3/0.9)  adj:1.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGA                                                  	9(0.3/0.9)  adj:1.3	+	.
+GACGAGGTGGCCGAGTGGTTAATGCGATGGACT                                                    	9(0.3/0.9)  adj:1.3	+	.
+GACGAGGTGGCCGAGTG                                                                    	9(0.3/0.9)  adj:1.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACTGC                                                  	9(0.3/0.9)  adj:1.3	+	.
+GACGATGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	9(0.3/0.9)  adj:1.3	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCGATGGA                                                      	9(0.3/0.9)  adj:1.3	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCGATGGAC                                                     	9(0.3/0.9)  adj:1.3	+	.
+                                                       TCGTGGGTTCGAATCCCATCCTCGTCGCCA	9(0.3/0.9)  adj:1.5	+	.
+                                                        CGTGGGTTCGAATCCCATCCTCGTCGC  	9(0.3/0.9)  adj:1.5	+	.
+                                                        CGTGGGTTCGAATCCCATCCTCGTCGCC 	9(0.3/0.9)  adj:1.5	+	.
+                                                         GTGGGTTCGAATCCCATCCTCGTCGC  	9(0.3/0.9)  adj:1.5	+	.
+                                                            TGTTCGAATCCCATCCTCGTCGCCA	9(0.3/0.9)  adj:1.5	+	.
+                                                                     CCCATCCTCGTCGCC 	9(0.3/0.9)  adj:1.5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGT                      	8(0.2/0.8)  adj:8	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATG                                                        	8(0.2/0.8)  adj:1.1	+	.
+GACGAGGTGACCGAGTGGTTAAGGCGATGGACTG                                                   	8(0.2/0.8)  adj:1.1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTG                                      	8(0.2/0.8)  adj:1.1	+	.
+GACGAGGTGGCTGAGTGGTTAAGGCGATGGACT                                                    	8(0.2/0.8)  adj:1.1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCT                                    	8(0.2/0.8)  adj:1.1	+	.
+GACGAAGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	8(0.2/0.8)  adj:1.1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTG                                      	8(0.2/0.8)  adj:1.1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGAAT                                                    	8(0.2/0.8)  adj:1.1	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCC                                            	8(0.2/0.8)  adj:1.1	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTG                                        	8(0.2/0.8)  adj:1.1	+	.
+   GAGGTGGCCGAGTGGTTAAGGCGATGGAC                                                     	8(0.2/0.8)  adj:1.1	+	.
+   GAGGTGGCCGAGTGGTTAAGGCAATGGACT                                                    	8(0.2/0.8)  adj:1.1	+	.
+   GAGGTGGCCGAGTGGTTAAGGCGATGGACTGC                                                  	8(0.2/0.8)  adj:1.1	+	.
+              GTGGTTAAGGCGATGGAC                                                     	8(0.2/0.8)  adj:0.4	+	.
+                      GGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	8(0.2/0.8)  adj:8	+	.
+                                TGCTAATCCATTGTGCTCTGC                                	8(0.2/0.8)  adj:1.1	+	.
+                                TGCTAATCCATTGTGCTCTGCAC                              	8(0.2/0.8)  adj:1.1	+	.
+                                            GTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	8(0.2/0.8)  adj:8	+	.
+                                                           TGGTTCGAATCCCATCCTCGTCGCCA	8(0.2/0.8)  adj:1.3	+	.
+                                                            GGTTCGAATCCCATCCTCGTCGC  	8(0.2/0.8)  adj:1.3	+	.
+                                                              TTCGAATCCCATCCTCG      	8(0.2/0.8)  adj:1.3	+	.
+                                                                  AATCCCATCCTCGTCGCC 	8(0.2/0.8)  adj:1.3	+	.
+                                                                   ATCCCATCCTCGTCGC  	8(0.2/0.8)  adj:1.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCCATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	7(0.2/0.7)  adj:7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACTCGTGGGTTCGAATCCCATCCTCG      	7(0.2/0.7)  adj:1.8	+	.
+GACGAGGTGTCCGAGTGGTTAAGGCGATGGACTG                                                   	7(0.2/0.7)  adj:1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAA                                                          	7(0.2/0.7)  adj:1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGA                                                      	7(0.2/0.7)  adj:1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGC                                     	7(0.2/0.7)  adj:1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTTTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	7(0.2/0.7)  adj:3.5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGC                                     	7(0.2/0.7)  adj:1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACT                                                    	7(0.2/0.7)  adj:1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGAC                                                     	7(0.2/0.7)  adj:1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAAT                                              	7(0.2/0.7)  adj:1	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCAATGG                                                       	7(0.2/0.7)  adj:1	+	.
+    AGGTGGCCGAGTGGTTAAGGCGATGGA                                                      	7(0.2/0.7)  adj:1	+	.
+    AGGTGGCCGAGTGGTTAAGGCAATG                                                        	7(0.2/0.7)  adj:1	+	.
+        GGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	7(0.2/0.7)  adj:7	+	.
+             AGTGGTTAAGGCGATGGA                                                      	7(0.2/0.7)  adj:0.4	+	.
+               TGGTTAAGGCGATGGA                                                      	7(0.2/0.7)  adj:0.4	+	.
+                GGTTAAGGCGATGGA                                                      	7(0.2/0.7)  adj:0.4	+	.
+                     AGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	7(0.2/0.7)  adj:7	+	.
+                                TGCTAATCCATTGTGCTC                                   	7(0.2/0.7)  adj:1	+	.
+                                                         GTGGGTTCGGATCCCATCCTCGTCGCCA	7(0.2/0.7)  adj:1.2	+	.
+                                                          TGGGTTCGGATCCCATCCTCGTCGCCA	7(0.2/0.7)  adj:1.2	+	.
+                                                          TTGGTTCGAATCCCATCCTCGTCGCCA	7(0.2/0.7)  adj:1.2	+	.
+                                                          TGGGTTCGAATCCCATCCTCGTCGC  	7(0.2/0.7)  adj:1.2	+	.
+                                                          TGGTTTCGAATCCCATCCTCGTCGCCA	7(0.2/0.7)  adj:1.2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACA                                                    	6(0.2/0.6)  adj:0.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGATTGC                                                  	6(0.2/0.6)  adj:0.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGGCT                                                    	6(0.2/0.6)  adj:0.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAAT                                              	6(0.2/0.6)  adj:0.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCC         	6(0.2/0.6)  adj:6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTC       	6(0.2/0.6)  adj:6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCA                                                 	6(0.2/0.6)  adj:0.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTC                                                   	6(0.2/0.6)  adj:0.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTT                                                	6(0.2/0.6)  adj:0.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGTCGATGGACTG                                                   	6(0.2/0.6)  adj:0.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCG                                                           	6(0.2/0.6)  adj:0.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCT                                  	6(0.2/0.6)  adj:1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGATTGCTAATCCATTGTGCT                                    	6(0.2/0.6)  adj:0.9	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	6(0.2/0.6)  adj:0.9	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCGATG                                                        	6(0.2/0.6)  adj:0.9	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCGATGG                                                       	6(0.2/0.6)  adj:0.9	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	6(0.2/0.6)  adj:6	+	.
+   GAGGTGGCCGAGTGGTTAAGGCGATGGA                                                      	6(0.2/0.6)  adj:0.9	+	.
+      GTGGCCGAGTGGTTAAGGCGATGGACT                                                    	6(0.2/0.6)  adj:0.3	+	.
+              GTGGTTAAGGCGATGGACT                                                    	6(0.2/0.6)  adj:0.3	+	.
+                      GGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	6(0.2/0.6)  adj:6	+	.
+                               CTGCTAATCCATTGTGCTC                                   	6(0.2/0.6)  adj:0.9	+	.
+                               CTGCTAATCCATTGTGCTCT                                  	6(0.2/0.6)  adj:0.9	+	.
+                                  CTAATCCATTGTGCT                                    	6(0.2/0.6)  adj:0.8	+	.
+                                          TTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	6(0.2/0.6)  adj:6	+	.
+                                                        CGTGGGTTCGAATCC              	6(0.2/0.6)  adj:0.2	+	.
+                                                        TGTGGGTTCGAATCCCATCCTCGTCGCCA	6(0.2/0.6)  adj:1	+	.
+                                                        CGTGGGTTCGAATCCCATCCTCGTCGCCA	6(0.2/0.6)  adj:1	+	.
+                                                         GTGTGTTCGAATCCCATCCTCGTCGCCA	6(0.2/0.6)  adj:1	+	.
+                                                         GTGGGTTCGAATCCCATCCTCGTCTCCA	6(0.2/0.6)  adj:1	+	.
+                                                         GTGGGTTCGATTCCCATCCTCGTCGCCA	6(0.2/0.6)  adj:1	+	.
+                                                         GTGGGTTCGAATCCCATCCTCGTCGCCA	6(0.2/0.6)  adj:1	+	.
+                                                          TGGGTTCGAATCCCATCCTCG      	6(0.2/0.6)  adj:1	+	.
+                                                            GGTTCGGATCCCATCCTCGTCGCCA	6(0.2/0.6)  adj:1	+	.
+                                                            GGTTCGAATCCCATCCT        	6(0.2/0.6)  adj:1	+	.
+                                                                CGAATCCCATCCTCG      	6(0.2/0.6)  adj:1	+	.
+                                                                 GAATCCCATCCTCGT     	6(0.2/0.6)  adj:1	+	.
+                                                                  AATCCCATCCTCGTCGC  	6(0.2/0.6)  adj:1	+	.
+GACGAGGTGGCCGAGTGGTTAATGCGATGGAC                                                     	5(0.2/0.5)  adj:0.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGTCGATGGA                                                      	5(0.2/0.5)  adj:0.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAAT                                              	5(0.2/0.5)  adj:0.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCT        	5(0.2/0.5)  adj:5	+	.
+GACGAGGTGGCCGAGTGGTTAAGTCGATGGACTGC                                                  	5(0.2/0.5)  adj:0.7	+	.
+GACTAGGTGGCCGAGTGGTTAAGGCGATGGAC                                                     	5(0.2/0.5)  adj:0.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTA                                                	5(0.2/0.5)  adj:0.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACTGCTAATCCATTGTGCTCTGCA                               	5(0.2/0.5)  adj:0.8	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACTCGTGGGTTCGAATCCCATCCTCGTCGCCA	5(0.2/0.5)  adj:1.2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACTGCTAATCCATTGTG                                      	5(0.2/0.5)  adj:0.7	+	.
+GACGAGGTTGCCGAGTGGTTAAGGCGATGGACT                                                    	5(0.2/0.5)  adj:0.7	+	.
+GACGAGGTGGCCGAGTGGTTAA                                                               	5(0.2/0.5)  adj:0.7	+	.
+GACGAGGCGGCCGAGTGGTTAAGGCGATGGACT                                                    	5(0.2/0.5)  adj:0.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATC                                             	5(0.2/0.5)  adj:0.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTG                                        	5(0.2/0.5)  adj:0.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGAGTG                                                   	5(0.2/0.5)  adj:0.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCT                                    	5(0.2/0.5)  adj:0.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	5(0.2/0.5)  adj:0.7	+	.
+TACGAGGTGGCCGAGTGGTTAAGGCAATGGACT                                                    	5(0.2/0.5)  adj:0.7	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATC                                             	5(0.2/0.5)  adj:0.7	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCAATGGATTG                                                   	5(0.2/0.5)  adj:0.7	+	.
+    AGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCC                                            	5(0.2/0.5)  adj:0.7	+	.
+     GGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCT                                    	5(0.2/0.5)  adj:0.7	+	.
+           CGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTC                                   	5(0.2/0.5)  adj:0.7	+	.
+            GAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCT                                  	5(0.2/0.5)  adj:0.7	+	.
+              GTGGTTAAGGCAATGGACTGCTAATCCATTGTGCT                                    	5(0.2/0.5)  adj:0.6	+	.
+               TGGTTAAGGCGATGGACT                                                    	5(0.2/0.5)  adj:0.3	+	.
+                GGTTAAGGCGATGGACT                                                    	5(0.2/0.5)  adj:0.3	+	.
+                   TAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	5(0.2/0.5)  adj:5	+	.
+                       GCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	5(0.2/0.5)  adj:5	+	.
+                             GACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	5(0.2/0.5)  adj:5	+	.
+                                       CCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	5(0.2/0.5)  adj:5	+	.
+                                                       CCGTGGGTTCGAATCCCATCCTCGTCGCCA	5(0.2/0.5)  adj:0.8	+	.
+                                                          TGGGTTCGAATCCCATCCTCGTC    	5(0.2/0.5)  adj:0.8	+	.
+                                                           GGGTTCGAATCCCATCCTCG      	5(0.2/0.5)  adj:0.8	+	.
+                                                           GGGTTCGGATCCCATCCTCGTCGCCA	5(0.2/0.5)  adj:0.8	+	.
+                                                           CGGTTCGAATCCCATCCTCGTCGCCA	5(0.2/0.5)  adj:0.8	+	.
+                                                           GGGTTCGTATCCCATCCTCGTCGCCA	5(0.2/0.5)  adj:0.8	+	.
+                                                            GGTTCGTATCCCATCCTCGTCGCCA	5(0.2/0.5)  adj:0.8	+	.
+                                                             GTTCGAATCCCATCCTCGTCGC  	5(0.2/0.5)  adj:0.8	+	.
+                                                             GTTCGAATCCCATCCT        	5(0.2/0.5)  adj:0.8	+	.
+                                                             GTTCGAATCCCATCCTCGT     	5(0.2/0.5)  adj:0.8	+	.
+                                                               TCGAATCCCATCCTCGTCGC  	5(0.2/0.5)  adj:0.8	+	.
+                                                                 CTATCCCATCCTCGTCGCCA	5(0.2/0.5)  adj:0.8	+	.
+                                                                   CTCCCATCCTCGTCGCCA	5(0.2/0.5)  adj:0.8	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTC       	4(0.1/0.4)  adj:4	+	.
+GGCGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGCCT                                                    	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAATGCGATGGACTG                                                   	4(0.1/0.4)  adj:0.6	+	.
+GACGAGATGGCCGAGTGGTTAAGGCGATGGACT                                                    	4(0.1/0.4)  adj:0.6	+	.
+GATGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGTCCGAGTGGTTAAGGCGATGGACT                                                    	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCCATGGAC                                                     	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCCATGGA                                                      	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCC 	4(0.1/0.4)  adj:4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCA                               	4(0.1/0.4)  adj:0.7	+	.
+GACGAGGTTGCCGAGTGGTTAAGGCGATGGACTG                                                   	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGC  	4(0.1/0.4)  adj:4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCT        	4(0.1/0.4)  adj:4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGT                                       	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGTCGATGGACTGCTAATCCATTGTG                                      	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCC         	4(0.1/0.4)  adj:4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:4	+	.
+GACGAGGTGGCCTAGTGGTTAAGGCGATGGACT                                                    	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGTTTAAGGCGATGGACTG                                                   	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGC                                     	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGC  	4(0.1/0.4)  adj:4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGT                                       	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATT                                         	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	4(0.1/0.4)  adj:0.6	+	.
+TACGAGGTGGCCGAGTGGTTAAGGCAATGGATT                                                    	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTG                                        	4(0.1/0.4)  adj:0.6	+	.
+GACGATGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGAATGCTAATCCATTGTGCTTTGCACACGTGGGTTCGTATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACCCGTGGGTTCGAATCCCATC          	4(0.1/0.4)  adj:1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCT                                    	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATT                                         	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTG                                      	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTG                                      	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGATT                                                    	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGATTGC                                                  	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCC                                            	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGATTG                                                   	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGA                                                      	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACTCGTGGGTTCGAATCCCATCC         	4(0.1/0.4)  adj:1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTG                                                   	4(0.1/0.4)  adj:0.6	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGATTGCTAATCCATTGTGCTTTGCACACGTGGGTTCGGATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:2	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTG                                      	4(0.1/0.4)  adj:0.6	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCTATGGA                                                      	4(0.1/0.4)  adj:0.6	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCGATGGA                                                      	4(0.1/0.4)  adj:0.6	+	.
+   GAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCT                                  	4(0.1/0.4)  adj:0.7	+	.
+    AGGTGGCCGAGTGGTTAAGGCAATGGACT                                                    	4(0.1/0.4)  adj:0.6	+	.
+    AGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCT                                    	4(0.1/0.4)  adj:0.6	+	.
+    AGGTGGCCGAGTGGTTAAGGCGATGGACTGC                                                  	4(0.1/0.4)  adj:0.6	+	.
+    AGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTG                                      	4(0.1/0.4)  adj:0.6	+	.
+       TGGCCGAGTGGTTAAGGCGATGGACTGCTAATC                                             	4(0.1/0.4)  adj:0.5	+	.
+       TGGCCGAGTGGTTAAGGCGATGGACT                                                    	4(0.1/0.4)  adj:0.2	+	.
+        GGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:4	+	.
+            GAGTGGTTAAGGCGATGGA                                                      	4(0.1/0.4)  adj:0.2	+	.
+             AGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:4	+	.
+                GGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCG      	4(0.1/0.4)  adj:4	+	.
+                        CGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:4	+	.
+                           TGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:4	+	.
+                               CTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGC  	4(0.1/0.4)  adj:4	+	.
+                               CTGCTAATCCATTGTGCTCTGC                                	4(0.1/0.4)  adj:0.6	+	.
+                                TGCTAATCCATTGTGCTCT                                  	4(0.1/0.4)  adj:0.6	+	.
+                                   TAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:4	+	.
+                                     ATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCG      	4(0.1/0.4)  adj:4	+	.
+                                           TGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:4	+	.
+                                                   GCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:4	+	.
+                                                    CACACGTGGGTTCGAATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:4	+	.
+                                                       ACGTGGGTTCGAATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:4	+	.
+                                                        CGTGGGTTCGGATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:0.7	+	.
+                                                        CGTGGGTTCGAATCCCATCCTCGCCGCCA	4(0.1/0.4)  adj:0.7	+	.
+                                                         GTGGGTTCGTATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:0.7	+	.
+                                                         GTGGGTTCGAACCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:0.7	+	.
+                                                         GTGGGTTCGAATCCCATC          	4(0.1/0.4)  adj:0.7	+	.
+                                                         GTGGGTTCGAATCCCATCCTCGT     	4(0.1/0.4)  adj:0.7	+	.
+                                                          TGTGTTCGAATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:0.7	+	.
+                                                          TGGGTTCGAATCCCATCCTTGTCGCCA	4(0.1/0.4)  adj:0.7	+	.
+                                                          GCGGTTCGAATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:0.7	+	.
+                                                           GGGTTCGCATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:0.7	+	.
+                                                            GGGTCGAATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:0.7	+	.
+                                                            GGTTCGAATCCCATCC         	4(0.1/0.4)  adj:0.7	+	.
+                                                            GGTTCGAATCCCATCCTC       	4(0.1/0.4)  adj:0.7	+	.
+                                                             GTTCGAATCCCATCC         	4(0.1/0.4)  adj:0.7	+	.
+                                                              TTCGAATCCCATCCTCGTTGCCA	4(0.1/0.4)  adj:0.7	+	.
+                                                              TTCGGATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:0.7	+	.
+                                                              GTCGAATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:0.7	+	.
+                                                               TCGTATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:0.7	+	.
+                                                                 AAATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:0.7	+	.
+                                                                  CATCCCATCCTCGTCGCCA	4(0.1/0.4)  adj:0.7	+	.
+                                                                    TCCCATCCTCGTCGC  	4(0.1/0.4)  adj:0.7	+	.
+                                                                     CCCATCCTCGTCGCCA	4(0.1/0.4)  adj:0.7	+	.
+GACGAGGTGGCCGAGTGGTTAAGTCGATGGACTGCT                                                 	3(0.1/0.3)  adj:0.4	+	.
+GACGATGTGGCCGAGTGGTTAAGGCGATGGACTGCTAAT                                              	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAATGCGATGGACTGCT                                                 	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGAAGGACTG                                                   	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAATGCGATGGA                                                      	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCG      	3(0.1/0.3)  adj:3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGG                                                  	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTT                    	3(0.1/0.3)  adj:3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAA                                               	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTTGTTAAGGCGATGGAC                                                     	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCC 	3(0.1/0.3)  adj:3	+	.
+GACGATGTGGCCGAGTGGTTAAGGCGATGGACTGCT                                                 	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATC               	3(0.1/0.3)  adj:3	+	.
+GAAGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	3(0.1/0.3)  adj:0.4	+	.
+GACTAGGTGGCCGAGTGGTTAAGGCGATGGACTGC                                                  	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCCATGGACTGCT                                                 	3(0.1/0.3)  adj:0.4	+	.
+GACTAGGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGAA                                                     	3(0.1/0.3)  adj:0.4	+	.
+AACGAGGTGGCCGAGTGGTTAAGGCGATGGAC                                                     	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGG                                                       	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCTGAGTGGTTAAGGCGATGGACTG                                                   	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCTAGTGGTTAAGGCGATGGAC                                                     	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTTGTTAAGGCGATGGACT                                                    	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACCG                                                   	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGTACTG                                                   	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTA                                   	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTG                                                	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACTCGTGGGT                      	3(0.1/0.3)  adj:0.5	+	.
+GACTAGGTGGCCGAGTGGTTAAGGCGATGGA                                                      	3(0.1/0.3)  adj:0.4	+	.
+TACGAGGTGGCCGAGTGGTTAAGGCGATGGAC                                                     	3(0.1/0.3)  adj:0.4	+	.
+GACGAGCTGGCCGAGTGGTTAAGGCGATGGACT                                                    	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATC          	3(0.1/0.3)  adj:3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACTGCTAATCCATTGTGCTCT                                  	3(0.1/0.3)  adj:0.5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCCATGG                                                       	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCAT                                          	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACTGCTAATCCATTGTGCT                                    	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGTTTAAGGCGATGGACT                                                    	3(0.1/0.3)  adj:0.4	+	.
+ACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCT                                                  	3(0.1/0.3)  adj:0.4	+	.
+GACGAGTTGGCCGAGTGGTTAAGGCAATGGACTGCT                                                 	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACCCGTGGGTTCGAATCCCATCCTCG      	3(0.1/0.3)  adj:0.8	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTTCTAATCCATTGTGCTCT                                  	3(0.1/0.3)  adj:0.5	+	.
+GACGAGGTGACCGAGTGGTTAAGGCAATGGACTG                                                   	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGAATGC                                                  	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGTT                                                 	3(0.1/0.3)  adj:0.4	+	.
+TACGAGGTGGCCGAGTGGTTAAGGCAAT                                                         	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTA                                                	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGATTGCTAATCCATTGTGCTTTGCACACGTGGGTTCGTATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:1.5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGTACACGTGGGTTCGAATCCCATCCTCGCCGCCA	3(0.1/0.3)  adj:3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGA                                                      	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCT                                    	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCT                                    	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACTCGTGGGTTCGAATCCCATCCTCGT     	3(0.1/0.3)  adj:0.8	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTA                                                	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGA                                                      	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGA                                                      	3(0.1/0.3)  adj:0.4	+	.
+GACGAAGTGGCCGAGTGGTTAAGGCAATGGACTG                                                   	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTG                                      	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCTATTGTGCTCT                                  	3(0.1/0.3)  adj:0.5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGATT                                                    	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGATTAAGGCGATGGACT                                                   	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGAGTGCTAATCCATTGTG                                      	3(0.1/0.3)  adj:0.4	+	.
+GACGAAGTGGCCGAGTGGTTAAGGCAATGGATT                                                    	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATT                                         	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGAAT                                                    	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCC                                            	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGACCGAGTGGTTAAGGCAATGGACTGCTAATCCATTG                                        	3(0.1/0.3)  adj:0.4	+	.
+TACGAGGTGGCCGAGTGGTTAAGGCTATGGATTG                                                   	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCTAATCCCATCC         	3(0.1/0.3)  adj:3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCT                                                 	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAATGCAATGGACT                                                    	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACT                                                    	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTG                                                   	3(0.1/0.3)  adj:0.4	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTG                                      	3(0.1/0.3)  adj:0.4	+	.
+GACGATGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATC          	3(0.1/0.3)  adj:3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGAATG                                                   	3(0.1/0.3)  adj:0.4	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCG      	3(0.1/0.3)  adj:3	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCT                                                 	3(0.1/0.3)  adj:0.4	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCAC                              	3(0.1/0.3)  adj:0.5	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCTATG                                                        	3(0.1/0.3)  adj:0.4	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCC                                            	3(0.1/0.3)  adj:0.4	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCAATGGAATGCT                                                 	3(0.1/0.3)  adj:0.4	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATC                                             	3(0.1/0.3)  adj:0.4	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTG                                 	3(0.1/0.3)  adj:0.5	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCAATGGACT                                                    	3(0.1/0.3)  adj:0.4	+	.
+   GAGGTGGCCGAGTGGTTAAGGCGATGGACTGCT                                                 	3(0.1/0.3)  adj:0.4	+	.
+   GAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGC                                     	3(0.1/0.3)  adj:0.4	+	.
+    AGGTGGCCGAGTGGTTAAGGCGATGGACTGCT                                                 	3(0.1/0.3)  adj:0.4	+	.
+    AGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATC                                             	3(0.1/0.3)  adj:0.4	+	.
+    AGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	3(0.1/0.3)  adj:0.4	+	.
+     GGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	3(0.1/0.3)  adj:0.4	+	.
+     GGTGGCCGAGTGGTTAAGGCAATGGAATGCTAATC                                             	3(0.1/0.3)  adj:0.4	+	.
+       TGGCCGAGTGGTTAAGGCTATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:3	+	.
+        GGCCGAGTGGTTAAGGCGATGGACT                                                    	3(0.1/0.3)  adj:0.2	+	.
+         GCCGAGTGGTTAAGGCGATGGA                                                      	3(0.1/0.3)  adj:0.2	+	.
+          CCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:3	+	.
+           CGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGC                                     	3(0.1/0.3)  adj:0.4	+	.
+            GAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGC                                	3(0.1/0.3)  adj:0.4	+	.
+            GAGTGGTTAAGGCAATGGACTGCTAATCC                                            	3(0.1/0.3)  adj:0.4	+	.
+            GAGTGGTTAAGGCGATG                                                        	3(0.1/0.3)  adj:0.2	+	.
+            GAGTGGTTAAGGCAATGGACTGCTAATCCATCGTGCT                                    	3(0.1/0.3)  adj:0.4	+	.
+             AGTGGTTAAGGCGATGGACT                                                    	3(0.1/0.3)  adj:0.2	+	.
+             AGTGGTTAAGGCGATGGACTGCTAATCCATT                                         	3(0.1/0.3)  adj:0.4	+	.
+             AGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:3	+	.
+              GTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCC 	3(0.1/0.3)  adj:3	+	.
+              GTGGTTAAGGCGATG                                                        	3(0.1/0.3)  adj:0.2	+	.
+               TGGTTAAGGCGATGGAC                                                     	3(0.1/0.3)  adj:0.2	+	.
+                GGTTAAGGCAATGGACTGCTAATCCATTGTGCTCT                                  	3(0.1/0.3)  adj:0.4	+	.
+                GGTTAAGGCGATGGACTG                                                   	3(0.1/0.3)  adj:0.4	+	.
+                  TTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:3	+	.
+                   TAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:3	+	.
+                    AAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:3	+	.
+                     AGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:3	+	.
+                     AGGCAATGGACTGCTAATCCATTGTGCTCTGCA                               	3(0.1/0.3)  adj:0.4	+	.
+                      GGCAATGGACTGCTAATCCATTGTGCTCTGCA                               	3(0.1/0.3)  adj:0.4	+	.
+                            GGACTGCTAATCCATTGTG                                      	3(0.1/0.3)  adj:0.4	+	.
+                            GGACTGCTAATCCATTGTGCTCTGCACTCGTGGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.6	+	.
+                              TCTGCTAATCCATTGTGCT                                    	3(0.1/0.3)  adj:0.4	+	.
+                               CTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:3	+	.
+                                TGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:3	+	.
+                                TGCTAATCCATTGTG                                      	3(0.1/0.3)  adj:0.4	+	.
+                                  CTAATCCATTGTGCTCTGCACACGTGGGTTCTAATCCCATCCTCGTCGCC 	3(0.1/0.3)  adj:3	+	.
+                                         ATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCC 	3(0.1/0.3)  adj:3	+	.
+                                                      CACGTGGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:3	+	.
+                                                      CTCGTGGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                        GGTGGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                        CGTGGGTTCGTATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                        CGTGGGTTCGAACCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                        CGTGGGTTCGAATCCCATCCTTGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                        CGTGGGTTCTAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                         GCGGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                         GTTGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                         GTGGGTTCGAATCCCATCCTCG      	3(0.1/0.3)  adj:0.5	+	.
+                                                         CTGGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                         GTGGGGTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                         CTGGGTTCGGATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                          TGGGTTCGAACCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                          TGGGTTCGAATCCCATCCTCGT     	3(0.1/0.3)  adj:0.5	+	.
+                                                          TGGGTTCGAATCCCATCCTCGCCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                           GGGTTCGAATCCCATTCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                           GGGTTCGAATCCCATCCTCTTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                           GGGTTCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                            GGTTCTAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                            GGTTCGAATCCCATCCTCTTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                             GTTCGGATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                             GTTCGAATCCCATCCTCGTCTCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                             GTTCGTATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                              TTCGAATCCCATCCTCGTCGCC 	3(0.1/0.3)  adj:0.5	+	.
+                                                              TTCGAATCCCATCCTCGT     	3(0.1/0.3)  adj:0.5	+	.
+                                                              GCCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                               TAGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                               TCGAATCCCATCCTCG      	3(0.1/0.3)  adj:0.5	+	.
+                                                               CCGAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                                CGAATCCCATCCTCGT     	3(0.1/0.3)  adj:0.5	+	.
+                                                                CGGATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                                CGAATCCCATCCTCGTCGC  	3(0.1/0.3)  adj:0.5	+	.
+                                                                CGAATCCCATCCTCATCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                                TTAATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                                 GAATCCCATCCTCGTCGCC 	3(0.1/0.3)  adj:0.5	+	.
+                                                                 GAATCCCATCCTCGTCG   	3(0.1/0.3)  adj:0.5	+	.
+                                                                 GAATCCCATCCTCGTCGC  	3(0.1/0.3)  adj:0.5	+	.
+                                                                  TATCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                                  AATCCCATCCTCGTCG   	3(0.1/0.3)  adj:0.5	+	.
+                                                                  ATTCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                                   ATCCCATTCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                                    TCCCATCCTCGTCTCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                                    CCCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+                                                                    TCCCATCATCGTCGC  	3(0.1/0.3)  adj:0.5	+	.
+                                                                     CCCATCCTCGTCGCCA	3(0.1/0.3)  adj:0.5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTTTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:1	+	.
+GACGACGTGGCCGAGTGGTTAAGGCGATGGAC                                                     	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGATTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCT        	2(0.1/0.2)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGAGATGGACTG                                                   	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGT                                                      	2(0.1/0.2)  adj:0.3	+	.
+GACGATGTGGCCGAGT                                                                     	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCCATGGACTGCTAATCCATTGTG                                      	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGAAT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCG   	2(0.1/0.2)  adj:2	+	.
+GACGAGCTGGCCGAGTGGTTAAGGCGATGGACTGC                                                  	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATTGACTGCTAATCCATTG                                        	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACTGCTAATC                                             	2(0.1/0.2)  adj:0.3	+	.
+GACGAGTTGGCCGAGTGGTTAAGGCGATGGAC                                                     	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATT                                         	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATT                                             	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATTGAC                                                     	2(0.1/0.2)  adj:0.3	+	.
+GACTAGGTGGCCGAGT                                                                     	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGCTGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGAG                                                     	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGACCGAGTGGTTAAGGCGATG                                                        	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCTGAGTGGTTAAGGCGATGGA                                                      	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGTCGATGGAC                                                     	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGACCGAGTGGTTAAGGCGATGGAC                                                     	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGGT                                                 	2(0.1/0.2)  adj:0.3	+	.
+TACGAGGTGGCCGAGTGGTT                                                                 	2(0.1/0.2)  adj:0.3	+	.
+GACGACGTGGCCGAGTGGTTAAGGCGATGGACTGCT                                                 	2(0.1/0.2)  adj:0.3	+	.
+AACGAGGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGCCCGAGTGGTTAAGGCGATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GTCGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGTTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTGAGGCGATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCCATGGACTGCTAATCCATTGTGC                                     	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATA                                                        	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGGGTGGTTAAGGCGATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTA                                                          	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACTGCTAAT                                              	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGC                                	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGG                       	2(0.1/0.2)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTAAAGGCGATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACTGCTAATCC                                            	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCCATGGACTGCTAATCCATTGTGCTCT                                  	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAA                                               	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGG                        	2(0.1/0.2)  adj:2	+	.
+GACGAGGTGGCCTAGTGGTTAAGGCGATGGACTG                                                   	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGAATGCT                                                 	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCCATGGACTGCTAATCCATTGTGCTCTGCA                               	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAATGCGATG                                                        	2(0.1/0.2)  adj:0.3	+	.
+GACGAAGTGGCCGAGTGGTT                                                                 	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGG                       	2(0.1/0.2)  adj:2	+	.
+GACTAGGTGGCCGAGTGGTTAAGGCGATG                                                        	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTATGGCGATGGA                                                      	2(0.1/0.2)  adj:0.3	+	.
+TACGAGGTGGCCGAGTGGTTAAGGCGATGGA                                                      	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATT                                         	2(0.1/0.2)  adj:0.3	+	.
+GACAAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGTACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCG      	2(0.1/0.2)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAGTCCCATCCT        	2(0.1/0.2)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGATTGCT                                                 	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACTGCTAATCCATTGTGCTCTGCAC                              	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGTCGAGTGGTTAAGGCGATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATTGACTGC                                                  	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATC                                             	2(0.1/0.2)  adj:0.3	+	.
+TACGAGGTGGCCGAGTTGTTAAGGCAATGG                                                       	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGTCGATGGACTGCTAATCCATT                                         	2(0.1/0.2)  adj:0.3	+	.
+TACGAGGTGGCCGAGTGGTTAAGGCAATGGAC                                                     	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACCCGTGGGTTCGAATCCCATCCTCGTCGCC 	2(0.1/0.2)  adj:0.5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGATTGCTAATCCATTGTGCTATGCACACGTGGGTTCGGATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGAATG                                                   	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATT                                         	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCT                                                 	2(0.1/0.2)  adj:0.3	+	.
+GACTAGGTGGCCGAGTGGTTAAGGCAATGGAATGC                                                  	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACTCGTGGGTTCGAATCCCATCCTTGTCGCCA	2(0.1/0.2)  adj:0.5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTG                                      	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGC  	2(0.1/0.2)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATTCATTGTG                                      	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCT                                  	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTG                                        	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+TACGAGGTGGCCGAGTGGTTAAGGCCATGGACTG                                                   	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGATTGCTAATCCATTGTGCTTTGCACACGTGGGTTCGCATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACTCGTGGGTTCGAATCACATCCTCGTCGCCA	2(0.1/0.2)  adj:0.5	+	.
+GACGAGGTGGCTGAGTGGTTAAGGCTATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATCGTG                                      	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACTGCTAATCCATTGTGCTCTGCACTCGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAAT                                                         	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCA                               	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGC                                	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGATTGGTTAAGGCAATGGATT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCT                                  	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATT                                         	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCCCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATG                                                        	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTG                                      	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGTCAATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTTGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACCCGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.5	+	.
+GACGAGGTGGCCTAGTGGTTAAGGCAATGGACTGCTAATCC                                            	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAATGCAATGGATT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCT                                  	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGAT                                                         	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCC                                            	2(0.1/0.2)  adj:0.3	+	.
+GACGAAGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGG-TAAGGCGATGGACTG                                                   	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGTAATGGACTGCTAATCCATTGTGCTCTGCA                               	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCT                                                 	2(0.1/0.2)  adj:0.3	+	.
+GACGATGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGC                                     	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCAT                                          	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCTAGTGGTTAAGGCAATGGATTGCT                                                 	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGG                                                       	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCT                                  	2(0.1/0.2)  adj:0.3	+	.
+TACGAGGTGGCCGAGTGGTTAAGGCAATGGAAT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATCGTGCTCTGCACCCGTGGGTTCGAATCCCATCCTCG      	2(0.1/0.2)  adj:0.5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGCAC                                                     	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGC                                                            	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCTAGTGGTTAAGGCAATGGATT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACTCGTGGGTTCGAATCCCATCCT        	2(0.1/0.2)  adj:0.5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAATTGGCCGAGTGGTTAAGGCGATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGAATGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAAT                                              	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGTCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGATTGCTAATCCATTGTGCTTTGCACACGTGGGTTCGTATCCGATCCTCGTCGCCA	2(0.1/0.2)  adj:1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCAT                                          	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGATTGCTAATCCATTGTGCTATGCACACGTGGGTTCGGATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGATTGCTAATCCATTG                                        	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGAGGCCGAGTGGTTAAGGCAATGGA                                                      	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTCGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTC                                   	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGTAATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGTTTAAGGCAATGGAAT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTA                                                	2(0.1/0.2)  adj:0.3	+	.
+GACGATGTGGCCGAGTGGTTAAGGCAATGGAATGCTAATCCATTGTG                                      	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCTATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGATTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGT     	2(0.1/0.2)  adj:2	+	.
+GACGACGTGGCCGAGTGGTTAAGGCAATGGACTG                                                   	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGA                                                      	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTTGTTAAGGCAATGGAGT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAAGTGGCCGAGTGGTTAAGGCAATGGACTGC                                                  	2(0.1/0.2)  adj:0.3	+	.
+TACGAGGTGGCCGAGTGGTTAAGGCAATGGAGTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGTTATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGC                                                  	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTTTGCACACGTGGGTTCGAATCCCATCCTCG      	2(0.1/0.2)  adj:1	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGG                                                       	2(0.1/0.2)  adj:0.3	+	.
+GACTAGGTGGCCGAGTGGTTAAGGCAATGGATT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGTCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGTCGAGTGGTTAAGGCAATGGACTGCTAATCC                                            	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGATTGCTAATCCATTGT                                       	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGAC                                                     	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCA                               	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGATTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAAGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+GACGAGGTGACCGAGTGGTTAAGGCAATGGATTG                                                   	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACTCGTGGGTTCGAATCCCATCCTCG      	2(0.1/0.2)  adj:0.5	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTT                     	2(0.1/0.2)  adj:2	+	.
+GACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGC                                                  	2(0.1/0.2)  adj:0.3	+	.
+ ACGATGTGGCCGAGTGGTTAAGGCGATGGACTGC                                                  	2(0.1/0.2)  adj:0.3	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCT                                  	2(0.1/0.2)  adj:0.3	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTG                                 	2(0.1/0.2)  adj:0.3	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCAATGGAC                                                     	2(0.1/0.2)  adj:0.3	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCGATGTACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+ ACGAGGTGGCCGAGT                                                                     	2(0.1/0.2)  adj:0.3	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCGATTGACTGCTAATC                                             	2(0.1/0.2)  adj:0.3	+	.
+ ACGAGGTGGCCGAGTGGTTAAGGCAATGGAATGC                                                  	2(0.1/0.2)  adj:0.3	+	.
+ ACGAGGTGGCCGAGTGTTTAAGGCAATGGAATGCTAATCCATTGTGCTTTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:1	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCC                                            	2(0.1/0.2)  adj:0.3	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCT                                  	2(0.1/0.2)  adj:0.3	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCGATGG                                                       	2(0.1/0.2)  adj:0.3	+	.
+  CGAGGTTGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTC       	2(0.1/0.2)  adj:2	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTG                                      	2(0.1/0.2)  adj:0.3	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCCATG                                                        	2(0.1/0.2)  adj:0.3	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCA                               	2(0.1/0.2)  adj:0.3	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGT     	2(0.1/0.2)  adj:2	+	.
+  CGATGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+  CGAGGTGGCCGAGTGGTTAAGGCAATGGATTGCT                                                 	2(0.1/0.2)  adj:0.3	+	.
+   GAGGTGGCCGAGTGGTTAAGGCGATGG                                                       	2(0.1/0.2)  adj:0.3	+	.
+   GAGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+   AAGGTGGCCGAGTGGTTAAGGCGATGGACTGCT                                                 	2(0.1/0.2)  adj:0.3	+	.
+   GAGGTGGCCGAGTGGTTAAGGCAATGGAC                                                     	2(0.1/0.2)  adj:0.3	+	.
+   GAGGTGGCCGAGTGGTTAAGGCAATGGATTGCT                                                 	2(0.1/0.2)  adj:0.3	+	.
+   GAGGTGGCCGAGTGGTTAAGGCAATGGACTG                                                   	2(0.1/0.2)  adj:0.3	+	.
+    AGGTGGCCGAGTGGTTAAG                                                              	2(0.1/0.2)  adj:0.3	+	.
+    AGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCT                                  	2(0.1/0.2)  adj:0.3	+	.
+    AGGTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	2(0.1/0.2)  adj:0.3	+	.
+    AGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAATCT                                            	2(0.1/0.2)  adj:0.3	+	.
+    AGGTGGCCGAGTGGTTAAGGCTATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.3	+	.
+    AGGTGTCC-------TAAGGCG                                                           	2(0.1/0.2)  adj:0.3	+	.
+    AGGTGGCTGAGTGGTTAAGGCAATGGACTGCTAATCCATTG                                        	2(0.1/0.2)  adj:0.3	+	.
+    AGGTGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCGC                              	2(0.1/0.2)  adj:0.3	+	.
+    AGGTGGCCGAGTGGTTAAGGCGATGGACTGCTAAT                                              	2(0.1/0.2)  adj:0.3	+	.
+     GGTGGCCGAGTGGTTAAGGCGATGGACT                                                    	2(0.1/0.2)  adj:0.3	+	.
+     GGTGGCCGAGTGGTTAAGGCAATGGAATGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+      GTGGCCGAGTGGTTAAGGCAATGGACT                                                    	2(0.1/0.2)  adj:0.1	+	.
+      GTGGCCGAGTGGTTAAGGCGATGGACTG                                                   	2(0.1/0.2)  adj:0.3	+	.
+       TGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCT                                    	2(0.1/0.2)  adj:0.2	+	.
+       TGGCCGAGTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+       TGGCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACCCGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.4	+	.
+        GGCCGAGTGGTTAAGGCAATGGACT                                                    	2(0.1/0.2)  adj:0.1	+	.
+        GGCCGAGTGGTTAAGGCGATGGACTG                                                   	2(0.1/0.2)  adj:0.2	+	.
+         GCCGAGTGGTTAAGGCGATGGACT                                                    	2(0.1/0.2)  adj:0.1	+	.
+         GCCGAGTGGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACTCGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.4	+	.
+           CGAGTGGTTAAGGCAATGGACTGCTAATCC                                            	2(0.1/0.2)  adj:0.2	+	.
+           CGACTGGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGT                      	2(0.1/0.2)  adj:2	+	.
+            GAGTGGTTAAGGCGATGGACTGCTAAT                                              	2(0.1/0.2)  adj:0.2	+	.
+            GAGTGGTTAAGGCGATGGAC                                                     	2(0.1/0.2)  adj:0.1	+	.
+             AGTGGTTAAGGCGATGGACTG                                                   	2(0.1/0.2)  adj:0.2	+	.
+             AGTGGTTAAGGCGATGG                                                       	2(0.1/0.2)  adj:0.1	+	.
+             AGTGGTTAAGGCGATGGACTGC                                                  	2(0.1/0.2)  adj:0.2	+	.
+              GTGGTTAAGGCGATGGACTGCTAATCCA                                           	2(0.1/0.2)  adj:0.2	+	.
+              GTGGTTAAGGCAATGGACTGCTAATCCA                                           	2(0.1/0.2)  adj:0.2	+	.
+              GTGGTTAAGGCGATGGACTG                                                   	2(0.1/0.2)  adj:0.2	+	.
+               TGGTTAAGGCGATGG                                                       	2(0.1/0.2)  adj:0.1	+	.
+                GGTTAAGGCGATGGACTGCTAATCCATTGTGCTC                                   	2(0.1/0.2)  adj:0.3	+	.
+                GGTTAAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+                GGTTAAGGCAATGGA                                                      	2(0.1/0.2)  adj:0.1	+	.
+                GGTTAAGGCAATGGACTGCTAATCCATTGTG                                      	2(0.1/0.2)  adj:0.2	+	.
+                GGTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+                GGTTAAGGCAATGGACTGCTAATCCATTG                                        	2(0.1/0.2)  adj:0.2	+	.
+                 GTTAAGGCGATGGACTGCTAATCCATTGTG                                      	2(0.1/0.2)  adj:0.2	+	.
+                 GTTAAGGCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCC         	2(0.1/0.2)  adj:2	+	.
+                 GTTAAGGCTATGGACTGC                                                  	2(0.1/0.2)  adj:0.2	+	.
+                  TTAAGGCGATGGACT                                                    	2(0.1/0.2)  adj:0.1	+	.
+                   TAAGGCGATGGACTGA                                                  	2(0.1/0.2)  adj:0.2	+	.
+                    AAGGCGATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+                    AAGGCAATGGACTGCTAATCCATTGTGCTCTGCACTCGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.4	+	.
+                      GGCAATGGACTGCTAATCCATTGTGCTCTGCAC                              	2(0.1/0.2)  adj:0.3	+	.
+                       GCAATGGACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+                            GGACTGCTAATCCATTGTGCTC                                   	2(0.1/0.2)  adj:0.3	+	.
+                            GGACTGCCAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+                             GACTGCTAATCCATTGTGC                                     	2(0.1/0.2)  adj:0.2	+	.
+                             GACTGCTAATCCATTGTGCTC                                   	2(0.1/0.2)  adj:0.3	+	.
+                              ACTGCTAATCCATTG                                        	2(0.1/0.2)  adj:0.2	+	.
+                              ACTGCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+                                TGCTAATCCATTGTGC                                     	2(0.1/0.2)  adj:0.2	+	.
+                                 GCTAATCCATTGTGCTCT                                  	2(0.1/0.2)  adj:0.3	+	.
+                                 GCTAATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGC  	2(0.1/0.2)  adj:2	+	.
+                                  CTAATCCATTGTGCTCT                                  	2(0.1/0.2)  adj:0.3	+	.
+                                   TAATCCATTGTGCTCTGCAC                              	2(0.1/0.2)  adj:0.3	+	.
+                                   TAATCCATTGTGCTTTGCACACGTGGGTTCGGATCCCATCCTCGT     	2(0.1/0.2)  adj:1	+	.
+                                   TATTCCATTGT------CACAC                            	2(0.1/0.2)  adj:2	+	.
+                                    AATCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGT     	2(0.1/0.2)  adj:2	+	.
+                                    AATCCATTGTGCTCTGCACTCGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.4	+	.
+                                    AATCCATTGTGCTTTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:1	+	.
+                                    AATCCATTGTGCTCT                                  	2(0.1/0.2)  adj:0.3	+	.
+                                      TCCATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+                                         ATTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+                                         ATTGTGCTCTGCACACGTGGGTTCGAATCCCATTCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+                                          TTGTGCTCTGCACACGTGGGTTCGAATCCCATCCTCG      	2(0.1/0.2)  adj:2	+	.
+                                          GTGCGCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+                                              GCTCTGCACTCGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.4	+	.
+                                              GCTCTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+                                                TCAGCA-----GGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.4	+	.
+                                                 TTGCACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:1	+	.
+                                                    CAC-CGCGGGTTCGAATC               	2(0.1/0.2)  adj:0.2	+	.
+                                                     ACACGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:2	+	.
+                                                       TCTTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                       CAGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                        CGTGGGTTCGAATCCCATCCCCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                        CGTGGGTTCGAATCCCATCCTCGTCTCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                        CTTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                        CGTGGGTACGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                        CGTGGGTTCGAATTCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                        CGTGGGTTCGAATCCCATCC         	2(0.1/0.2)  adj:0.3	+	.
+                                                        CGTGGTTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                        CGTGGGTTCGAATCTCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                        CGTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                        TTTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                         GTGGGTTGGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                         GTGGGTTCGAATCCCATCCCCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                         GTGGGTTCGAATCCCATCC         	2(0.1/0.2)  adj:0.3	+	.
+                                                         ATGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                         GTGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                          TGGGTTCGAATCCTATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                          TGGGTTCGAATCCCATCCTCGTCTCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                          TGGGTTCGAATCCCATCCTCGTCGCCC	2(0.1/0.2)  adj:0.3	+	.
+                                                          AGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                          TGGGTTCGCATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                          TGGGTTCGAATCTCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                          TGGGTTCGTATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                          TGGGTTCGACTCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                          TGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                          TGGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                          GTGGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                           GGGTTCGAATCCCATCCTCGTC    	2(0.1/0.2)  adj:0.3	+	.
+                                                           GGGTTCGGATCCCATCCTCGTCGCC 	2(0.1/0.2)  adj:0.3	+	.
+                                                           GGGTTCGAATCCCATCCTCGTCTCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                           GGGTTCGAATCCCATCCTCGTCGC  	2(0.1/0.2)  adj:0.3	+	.
+                                                           GGGTTCGAATCCCATCCTCGCCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                            CGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                            GGTTCGAATTCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                            GGTTCGAATCCCATCCTCGTC    	2(0.1/0.2)  adj:0.3	+	.
+                                                            GGTTCGAATCCCATCCTCGT     	2(0.1/0.2)  adj:0.3	+	.
+                                                            GGTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                            GGTTCGAATTCCATCCTTGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                            GGTTCGGATCCCATCCTCTTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                             GTTCGAATCCCATCTTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                             GGTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                             GTTCGAATCCCATCCTTGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                             GTTCGAATCCCATCCTCGTC    	2(0.1/0.2)  adj:0.3	+	.
+                                                             GTTCGAATCCCATCCTCGTCGTCA	2(0.1/0.2)  adj:0.3	+	.
+                                                             GTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                             GTTCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                              TTCGAATCCCATCCTC       	2(0.1/0.2)  adj:0.3	+	.
+                                                               TCGGATCCCATCCTCGTCG   	2(0.1/0.2)  adj:0.3	+	.
+                                                               TCGAATCCCATCCTCGTTGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                               TCGAATCCTATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                               GCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                               TCGAATCCCATCCCCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                               TCGAACCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                               TCGAATCCCATCCTCGTC    	2(0.1/0.2)  adj:0.3	+	.
+                                                               TCGTATCCCATCCTTGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                               TCGAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                               TCGA--CGCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                CGGATCCCATCCTCGTCG   	2(0.1/0.2)  adj:0.3	+	.
+                                                                CGAATCCCATCCTTGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                CAAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                 TAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                 CAATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                 GCATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                 GGATCCCATCCTCGTCACCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                  GATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                  AATCCCATCCTCGTCTCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                  AATCCCATCCTCGTCGCCT	2(0.1/0.2)  adj:0.3	+	.
+                                                                   GTCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                   ACCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                   TTCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                   ATTCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                   ATCCCATCCTTGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                   ATCTCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                   ATCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                    TCCCATCCCCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                    TCCCATTCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                    ACCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                    TCCCATCCTCGTCGCCG	2(0.1/0.2)  adj:0.3	+	.
+                                                                    TCCCATCCTCGTCGCCC	2(0.1/0.2)  adj:0.3	+	.
+                                                                    TTCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                    TCCAATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                    TCCCATCTTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                    TCCCATCCTTGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                    TCCCATCCTCGTTGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                    TCCCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                     CCCATCCTCTTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                     CCCATCCTTGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                     ACCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.
+                                                                      TCATCCTCGTCGCCA	2(0.1/0.2)  adj:0.3	+	.

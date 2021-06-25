@@ -3,7 +3,13 @@ import os
 
 args = sys.argv
 
-folder_path = sys.argv[1]
+
+if len(sys.argv)>1:
+    folder_path = sys.argv[1]
+else:
+    folder_path = "/Users/ernesto/PycharmProjects/tRNA_is_life/merge_aligns/mimseq_align"
+
+# folder_path = sys.argv[1]
 # folder_path = "/Users/ernesto/PycharmProjects/tRNA_is_life/merge_aligns/HL5_ctrl_tRNA Ser probe alignment"
 
 files = [x for x in os.listdir(folder_path) if (os.path.isfile(os.path.join(folder_path,x)) and x.endswith(".align"))]

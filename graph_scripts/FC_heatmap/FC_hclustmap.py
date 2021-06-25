@@ -7,20 +7,37 @@ from matplotlib import cm
 import numpy as np
 import seaborn as sns
 import numpy as np
+from matplotlib import cm
+from matplotlib.colors import ListedColormap, LinearSegmentedColormap
 
 
 np.random.seed(0)
 # sns.set_theme()
 uniform_data = np.random.rand(10, 12)
 
+
+rainBow = cm.get_cmap('gist_rainbow', 200)
+no_purple_cmap = ListedColormap(rainBow(np.linspace(0, 0.75, 256)))
+
+
+# parameters
 # args = sys.argv
-
-file_path = sys.argv[1]
-
-# file_path = "/Users/ernesto/PycharmProjects/tRNA_is_life/graph_scripts/FC_heatmap/heatmap_HB-GBM.txt"
+if len(sys.argv)>1:
+    file_path = sys.argv[1]
+else:
+    file_path = "/Users/ernesto/PycharmProjects/tRNA_is_life/graph_scripts/FC_heatmap/heatmap_HB-GBM.txt"
 title = "hehe"
 file_base = ".".join(file_path.split(".")[:-1])
 file_name = file_base.split("/")[-1]
+
+if len(sys.argv)>2:
+    cmin = float(sys.argv[2])
+else:
+    cmin = None
+if len(sys.argv) > 3:
+    cmax = float(sys.argv[3])
+else:
+    cmax = None
 
 #load with pandas
 
@@ -99,10 +116,11 @@ default_x = x/float(4)
 default_y = y/float(4)
 
 
+
 # regular plot
 
 fig, ax = plt.subplots(figsize=(default_y, default_x))
-sns.heatmap(to_plot, cmap="gist_rainbow",)
+sns.heatmap(to_plot, cmap=no_purple_cmap,vmin=cmin, vmax=cmax)
 
 plt.savefig(file_base + "_all.png")
 
@@ -119,6 +137,6 @@ x,y = to_plot.shape
 default_x = x/float(4)
 default_y = y/float(4)
 fig, ax = plt.subplots(figsize=(default_y, default_x))
-sns.clustermap(to_plot, cmap="gist_rainbow",)
+sns.clustermap(to_plot, cmap=no_purple_cmap, vmin=cmin, vmax=cmax)
 plt.savefig(file_base + "_FC.png")
 exit()
