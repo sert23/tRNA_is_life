@@ -41,8 +41,8 @@ color_dict = { "HL5_SSIII_untreated":"#fb9a99",
 
 #input_file
 
-# file_path = sys.argv[1]
-file_path = "HL5_anticodon.txt"
+file_path = sys.argv[1]
+# file_path = "HL5_anticodon.txt"
 # image_path = "radar_plot.png"
 # base_path = os.path.join(file_path.split("/")[:-1])
 base_path = ".".join(file_path.split(".")[:-1])
