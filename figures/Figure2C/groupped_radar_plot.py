@@ -6,7 +6,7 @@ import math
 import numpy as np
 import matplotlib
 import sys
-
+import os
 
 # parameters
 
@@ -25,7 +25,14 @@ label_dict = { "HL5_SSIII_untreated":"SuperScript III untreated",
 
 }
 
-color_dict = { "HL5_SSIII_untreated":"#cab2d6",
+# color_dict = { "HL5_SSIII_untreated":"#cab2d6",
+#              "HL5_SSIII_DMtreated": "#A00078",
+#              "HL5_mRT_untreated" : "#b2df8a",
+#                "HL5_mRT_DMtreated" : "#00A03C"
+#
+# }
+
+color_dict = { "HL5_SSIII_untreated":"#fb9a99",
              "HL5_SSIII_DMtreated": "#A00078",
              "HL5_mRT_untreated" : "#b2df8a",
                "HL5_mRT_DMtreated" : "#00A03C"
@@ -34,10 +41,14 @@ color_dict = { "HL5_SSIII_untreated":"#cab2d6",
 
 #input_file
 
-file_path = sys.argv[1]
-# file_path = "HL5_anticodon.txt"
-image_path = "radar_plot.png"
-image_path_log = "radar_plot_log.png"
+# file_path = sys.argv[1]
+file_path = "HL5_anticodon.txt"
+# image_path = "radar_plot.png"
+# base_path = os.path.join(file_path.split("/")[:-1])
+base_path = ".".join(file_path.split(".")[:-1])
+
+# image_path_log = os.path.join(base_path, "radar_plot_log.png")
+image_path_log = base_path + "_radar_plot.png"
 
 exp_df = pd.read_csv(file_path, sep="\t")
 
@@ -76,10 +87,10 @@ for c in cols:
         # print(matching_cols)
         aa_df = t_df[t_df.columns.intersection(matching_cols)]
         if new_df.empty:
-            print("new")
+            # print("new")
             new_df[aa] = aa_df.sum(axis=1)
         else:
-            print("not new")
+            # print("not new")
             new_df[aa] = aa_df.sum(axis=1).values
             # new_df = new_df.assign(e=pd.Series(np.random.randn(sLength)).values)
 
@@ -164,7 +175,8 @@ for sample,values in values_dict.items():
 
 # ax.legend()
 # plt.legend(loc=1)
-font = {'family' : 'normal',
+font = {
+    # 'family' : 'normal',
         'weight' : 'bold',
         'size'   : 12}
 
