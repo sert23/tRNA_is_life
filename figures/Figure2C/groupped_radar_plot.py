@@ -41,14 +41,15 @@ color_dict = { "HL5_SSIII_untreated":"#fb9a99",
 
 #input_file
 
-file_path = sys.argv[1]
-# file_path = "HL5_anticodon.txt"
+# file_path = sys.argv[1]
+file_path = "HL5_anticodon.txt"
 # image_path = "radar_plot.png"
 # base_path = os.path.join(file_path.split("/")[:-1])
 base_path = ".".join(file_path.split(".")[:-1])
 
 # image_path_log = os.path.join(base_path, "radar_plot_log.png")
 image_path_log = base_path + "_radar_plot.png"
+no_legend_path = base_path + "_radar_noLegend.png"
 
 exp_df = pd.read_csv(file_path, sep="\t")
 
@@ -182,14 +183,17 @@ font = {
 
 matplotlib.rc('font', **font)
 plt.xticks(fontsize=12, weight="bold" )
-plt.legend(loc='lower right', bbox_to_anchor=(0.9, -0.1, 0.6, 0.8))
+# plt.legend(loc='lower right', bbox_to_anchor=(0.99, -0.1, 0.6, 0.9))
+# plt.legend(loc='lower right', bbox_to_anchor=(0.9, -0.1, 0.6, 0.8))
 
 # Fill area
 # ax.fill(angles, values, 'b', alpha=0.1)
 
 # Show the graph
 figure = plt.gcf()
-figure.set_size_inches(10, 6)
+figure.set_size_inches(11, 6)
+plt.savefig(no_legend_path, dpi=300)
+plt.legend(loc='lower right', bbox_to_anchor=(0.99, -0.1, 0.6, 0.9))
 plt.savefig(image_path_log, dpi=300)
 
 
