@@ -11,9 +11,24 @@ from matplotlib import cm
 from matplotlib.colors import ListedColormap, LinearSegmentedColormap
 
 
+# PLOT ALL
+
+width_1 = 10
+height_1 = 10
+font_1_x = 15
+font_1_y = 15
+
+# PLOT SELECTED
+
+width_2 = 10
+height_2 = 10
+font_2_x = 15
+font_2_y = 15
+features_to_select = 20
+
 np.random.seed(0)
 # sns.set_theme()
-uniform_data = np.random.rand(10, 12)
+
 
 
 rainBow = cm.get_cmap('gist_rainbow', 200)
@@ -25,19 +40,22 @@ no_purple_cmap = ListedColormap(rainBow(np.linspace(0, 0.75, 256)))
 if len(sys.argv)>1:
     file_path = sys.argv[1]
 else:
-    file_path = "/Users/ernesto/PycharmProjects/tRNA_is_life/graph_scripts/FC_heatmap/heatmap_HB-GBM.txt"
-title = "hehe"
-file_base = ".".join(file_path.split(".")[:-1])
-file_name = file_base.split("/")[-1]
+    file_path = "/Users/ernesto/PycharmProjects/tRNA_is_life2/graph_scripts/FC_heatmap/heatmap_HB-GBM.txt"
 
-if len(sys.argv)>2:
-    cmin = float(sys.argv[2])
+file_base = ".".join(file_path.split(".")[:-1])
+# file_name = file_base.split("/")[-1]
+
+if len(sys.argv) > 2:
+    n_features = int(sys.argv[2])
 else:
-    cmin = None
-if len(sys.argv) > 3:
-    cmax = float(sys.argv[3])
-else:
-    cmax = None
+    # n_features = 20
+    n_features = features_to_select
+# else:
+cmin = None
+# if len(sys.argv) > 3:
+#     cmax = float(sys.argv[3])
+# else:
+cmax = None
 
 #load with pandas
 
@@ -62,8 +80,9 @@ exp_df = exp_df.drop("group")
 exp_df = exp_df.astype(float)
 sums = exp_df.sum(0)
 exp_df = exp_df.div(sums, axis='columns')*1000000
-
-# print(ref_df.head())
+#
+# print(exp_df.head())
+# exit()
 # calculate average value for reference group
 ref_df = exp_df[reference_samples]
 ref_av = ref_df.mean(axis=1)
@@ -119,24 +138,76 @@ default_y = y/float(4)
 
 # regular plot
 
-fig, ax = plt.subplots(figsize=(default_y, default_x))
-sns.heatmap(to_plot, cmap=no_purple_cmap,vmin=cmin, vmax=cmax)
+# fig, ax = plt.subplots(figsize=(default_y, default_x))
+fig, ax = plt.subplots(figsize=(width_1, height_1))
+# sns.heatmap(to_plot, cmap=no_purple_cmap,vmin=cmin, vmax=cmax)
+cg = sns.clustermap(to_plot, cmap=no_purple_cmap,vmin=cmin, vmax=cmax)
+# cg = sns.clustermap(to_plot, cmap=no_purple_cmap,vmin=cmin, vmax=cmax, dendrogram_ratio=(.1, .1),)
+cg.ax_col_dendrogram.set_visible(False)
 
-plt.savefig(file_base + "_all.png")
+x_ticks_size = font_1_x
+y_ticks_size = font_1_y
 
+for tick_label in cg.ax_heatmap.axes.get_yticklabels():
+    tick_text = tick_label.get_text()
+    # species_name = species.loc[int(tick_text)]
+    tick_label.set_size(x_ticks_size)
 
+for tick_label in cg.ax_heatmap.axes.get_xticklabels():
+    tick_text = tick_label.get_text()
+    # species_name = species.loc[int(tick_text)]
+    tick_label.set_size(y_ticks_size)
 
-# 20 highest abs FC
+# cg.ax_heatmap.axes.get_yticklabels()
+#
+# cg.set_xticklabels(cg.get_xmajorticklabels(), fontsize = 18)
+
+# plt.xticks(rotation=45, fontsize=14, ha='right', rotation_mode='anchor')
+# plt.yticks(fontsize=18)
+
+# sns.set(font_scale = 2)
+plt.savefig(file_base + "_all.png", dpi=300)
+# plt.show()
+print(file_base + "_all.png")
+# plt.savefig("/Users/ernesto/PycharmProjects/tRNA_is_life2/graph_scripts/FC_heatmap/heatmap_HB-GBM.png")
+
+print("done")
+
+# n highest abs FC
 
 
 logFC_df["FC"] = logFC_df.mean(axis=1, numeric_only=True, skipna=True).abs()
-to_plotFC = logFC_df.nlargest(20, columns=['FC'])
+# selecting n_features (number of features)
+to_plotFC = logFC_df.nlargest(n_features, columns=['FC'])
 to_plot = to_plotFC.T
 to_plot = to_plot.drop("FC",axis=0)
 x,y = to_plot.shape
 default_x = x/float(4)
-default_y = y/float(4)
-fig, ax = plt.subplots(figsize=(default_y, default_x))
-sns.clustermap(to_plot, cmap=no_purple_cmap, vmin=cmin, vmax=cmax)
-plt.savefig(file_base + "_FC.png")
+default_y = y
+# fig, ax = plt.subplots(figsize=(default_y, default_x))
+# fig, ax = plt.subplots(figsize=(4, 35))
+# figure = plt.gcf()
+
+cg = sns.clustermap(to_plot, cmap=no_purple_cmap, vmin=cmin, vmax=cmax, figsize=(default_x, default_y))
+cg.ax_col_dendrogram.set_visible(False)
+
+x_ticks_size = font_2_x
+y_ticks_size = font_2_y
+
+for tick_label in cg.ax_heatmap.axes.get_yticklabels():
+    tick_text = tick_label.get_text()
+    # species_name = species.loc[int(tick_text)]
+    tick_label.set_size(x_ticks_size)
+
+for tick_label in cg.ax_heatmap.axes.get_xticklabels():
+    tick_text = tick_label.get_text()
+    # species_name = species.loc[int(tick_text)]
+    tick_label.set_size(y_ticks_size)
+
+# plt.xticks(rotation=45, fontsize=14, ha='right', rotation_mode='anchor')
+# plt.yticks(fontsize=18)
+fig, ax = plt.subplots(figsize=(width_2, height_2))
+plt.savefig(file_base + "_top" + str(n_features) + "_FC.png", dpi=300)
+print(file_base + "_top" + str(n_features) + "_FC.png")
+print("done")
 exit()
