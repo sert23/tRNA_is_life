@@ -13,8 +13,8 @@ from matplotlib.colors import ListedColormap, LinearSegmentedColormap
 
 # PLOT ALL
 
-width_1 = 10
-height_1 = 10
+width_1 = 30
+height_1 = 20
 font_1_x = 15
 font_1_y = 15
 
@@ -138,13 +138,31 @@ default_y = y/float(4)
 
 # regular plot
 
+# figure = plt.gcf()
+#
+# plt.axis('off')
+# plt.plot(x, y, color='black', linewidth=1)
+# plt.gca().set_position([0, 0, 1, 1])
+# plt.savefig("image.png", dpi=100)
+
+
 # fig, ax = plt.subplots(figsize=(default_y, default_x))
+# fig, ax = plt.subplots(figsize=(width_1, height_1))
 fig, ax = plt.subplots(figsize=(width_1, height_1))
+fig.set_size_inches(width_1, height_1)
+from matplotlib import rcParams
+
+# figure size in inches
+rcParams['figure.figsize'] = width_1, height_1
+
 # sns.heatmap(to_plot, cmap=no_purple_cmap,vmin=cmin, vmax=cmax)
+sns.set(rc={'figure.figsize':(width_1,height_1)})
 cg = sns.clustermap(to_plot, cmap=no_purple_cmap,vmin=cmin, vmax=cmax)
+# cg = sns.clustermap(to_plot, cmap=no_purple_cmap,vmin=cmin, vmax=cmax, height=height_1, aspect=height_1/float(width_1))
 # cg = sns.clustermap(to_plot, cmap=no_purple_cmap,vmin=cmin, vmax=cmax, dendrogram_ratio=(.1, .1),)
 cg.ax_col_dendrogram.set_visible(False)
-
+sns.set(rc={'figure.figsize':(width_1,height_1)})
+fig.set_size_inches(width_1, height_1)
 x_ticks_size = font_1_x
 y_ticks_size = font_1_y
 
@@ -166,12 +184,20 @@ for tick_label in cg.ax_heatmap.axes.get_xticklabels():
 # plt.yticks(fontsize=18)
 
 # sns.set(font_scale = 2)
+from matplotlib import rcParams
+
+# figure size in inches
+rcParams['figure.figsize'] = width_1, height_1
+plt.gcf().set_size_inches(width_1, height_1)
+
 plt.savefig(file_base + "_all.png", dpi=300)
 # plt.show()
 print(file_base + "_all.png")
 # plt.savefig("/Users/ernesto/PycharmProjects/tRNA_is_life2/graph_scripts/FC_heatmap/heatmap_HB-GBM.png")
 
 print("done")
+plt.gcf().clear()
+
 
 # n highest abs FC
 
@@ -187,9 +213,11 @@ default_y = y
 # fig, ax = plt.subplots(figsize=(default_y, default_x))
 # fig, ax = plt.subplots(figsize=(4, 35))
 # figure = plt.gcf()
-
+fig, ax = plt.subplots(figsize=(width_2, height_2))
 cg = sns.clustermap(to_plot, cmap=no_purple_cmap, vmin=cmin, vmax=cmax, figsize=(default_x, default_y))
 cg.ax_col_dendrogram.set_visible(False)
+
+print(to_plot.head())
 
 x_ticks_size = font_2_x
 y_ticks_size = font_2_y
@@ -206,7 +234,8 @@ for tick_label in cg.ax_heatmap.axes.get_xticklabels():
 
 # plt.xticks(rotation=45, fontsize=14, ha='right', rotation_mode='anchor')
 # plt.yticks(fontsize=18)
-fig, ax = plt.subplots(figsize=(width_2, height_2))
+# fig, ax = plt.subplots(figsize=(width_2, height_2))
+plt.gcf().set_size_inches(width_2, height_2)
 plt.savefig(file_base + "_top" + str(n_features) + "_FC.png", dpi=300)
 print(file_base + "_top" + str(n_features) + "_FC.png")
 print("done")
